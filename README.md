@@ -50,8 +50,6 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
-
 ![Screenshot (116)](https://github.com/greffinaprem/Find-the-best-fit-line-using-Least-Squares-Method/assets/119475603/7be5660f-2e46-404e-9c87-be9e2d5ca9af)
 
 ## Result:
